@@ -1,7 +1,7 @@
 ### Hi I'm Ítalo Siqueira 🤙
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/22-italo-siqueira/)
-[![Social](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](italinhon)
+[![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_siqueira_/)
 
 ![Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=italinhon&show_icons=true&theme=radical)
 
